@@ -1,0 +1,15 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.experiment1_u2018.2.20.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "strings": {
+        "en_us": {
+          "name": "Experiment1_U2018.2.20 [Testing]"
+        }
+      }
+    }
+  ]
+}
